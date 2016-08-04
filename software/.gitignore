@@ -1,0 +1,8 @@
+/SimpleNYT_proto/*
+/Simulation/*
+/Test/*
+/test_virtual/*
+/calc.xlsx
+/SNYT/Debug/*
+!/SNYT/Debug/SNYT.eep
+!/SNYT/Debug/SNYT.hex
