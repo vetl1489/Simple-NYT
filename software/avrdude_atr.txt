@@ -1,0 +1,5 @@
+Atmel Studio External Tool:
+-p m8 usbasp -P usb -B 187500Hz -U lfuse:w:0xEF:m -U flash:w:"$(ProjectDir)Debug\$(TargetName).hex":i
+
+avrdude command line:
+avrdude.exe -p m8 usbasp -P usb -B 187500Hz -U lfuse:w:0xEF:m -U flash:w:"path_to_my.hex":i
