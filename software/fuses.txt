@@ -1,0 +1,3 @@
+Fuses Atmega8:
+high: 0xD9
+low: 0xEF
