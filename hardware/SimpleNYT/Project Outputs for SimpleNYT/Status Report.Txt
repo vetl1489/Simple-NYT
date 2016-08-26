@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [SimpleNYT.PcbDoc]
+   Generated File[SimpleNYT.TXT]
+   Generated File[SimpleNYT.LDP]
+   Generated File[SimpleNYT.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:27:00 On 25.08.2016

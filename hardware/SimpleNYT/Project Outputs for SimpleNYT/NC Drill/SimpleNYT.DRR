@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SimpleNYT.PcbDoc   25.08.2016  3:27:00
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SimpleNYT.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.6mm (23.622mil)        Round          2                30.63 mm (1.21 Inch)
+T2        0.9mm (35.433mil)        Round          21               110.59 mm (4.35 Inch)
+T3        3.2mm (125.984mil)       Round          2                32.25 mm (1.27 Inch)
+---------------------------------------------------------------------------
+Totals                                            25               173.48 mm (6.83 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
